@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">iFinance</string>
+    <string name="total">Total</string>
+    <string name="due">Contas a pagar</string>
+    <string name="account_redacted">• • • • • </string>
+    <string name="accounts">Receita</string>
+    <string name="bills">Despesas</string>
+    <string name="sort">Ordenar</string>
+    <string name="see_all">Ver todos</string>
+</resources>
